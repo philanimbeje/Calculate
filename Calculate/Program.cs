@@ -9,7 +9,7 @@ namespace Calculator
     class Program
     {
         static void Main(string[] args)
-        {
+        { 
             Console.WriteLine("enter a simple sum");
             var sum = Console.ReadLine();
 
